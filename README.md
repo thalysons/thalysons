@@ -1,8 +1,8 @@
-## ✨ Olá! Meu nome é Thalyson de Souza, sou um cientista de dados ✨
+## ✨ Olá! Meu nome é Thalyson de Souza✨
 ##  ✨ Bem vindo ao meu pequeno espaço! ✨ 
 
 
-🌱 Estudo Ciência de Dados: Python/ SQL
+🌱 Estudo Python e Front End
 
 😄 Pronomes: ele/dele
 
