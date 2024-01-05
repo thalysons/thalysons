@@ -1,10 +1,4 @@
-## ✨ Olá! Meu nome é Thalyson de Souza✨
-##  ✨ Bem vindo ao meu pequeno espaço! ✨ 
-
-
-🌱 Estudo Python e Front End
-
-😄 Pronomes: ele/dele
+ Olá! Meu nome é Thalyson de Souza
 
 ##
 
